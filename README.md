@@ -1,4 +1,4 @@
-# MAC MD V2.0
+# Jonah MD V2.0
 
 > **Warning**: Do not sell this script.
 
@@ -8,7 +8,7 @@
 
 </center>
 
-<h1 align="center">MAC MD</h1>
+<h1 align="center">Jonah MD</h1>
  
 ## Join my channel for updates and get free cc
 <a href="https://whatsapp.com/channel/0029VaWGyGVJZg48vgpHBa31" target="_blank">
